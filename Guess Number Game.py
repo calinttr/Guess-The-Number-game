@@ -40,3 +40,7 @@ try:
         print(f"Sorry, you ran out of guesses. The number was: {randomNumber}")
 except NameError:
     print("You haven't provided any valid information. The program will now close. Please re-open it if you want to play again!")
+
+    
+input()
+    
